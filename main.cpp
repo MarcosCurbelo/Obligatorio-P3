@@ -4,7 +4,7 @@
 int main(){
 
     int n =4; 
-    int x = mult(n);
+    int x = 5 + mult(n);
     printf("%d", x);
 
 }
